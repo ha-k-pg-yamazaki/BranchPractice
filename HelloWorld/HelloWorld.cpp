@@ -9,7 +9,7 @@ void DrawHelloWorld()
 
 int main()
 {
-    printf("Hello World!\n");
+   DrawHelloWorld();
 
     system("pause");
     return 0;
